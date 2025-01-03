@@ -5,10 +5,8 @@
     "\\src\\app",
     "\\src\\app\\components",
     "\\src\\app\\components\\contact",
-    "\\src\\app\\components\\contact\\detail",
-    "\\src\\app\\components\\contact\\detail\\header",
-    "\\src\\app\\components\\contact\\detail\\info"
+    "\\src\\app\\services"
   ],
-  "SelectedNode": "\\src\\app\\components\\contact\\detail\\header\\contact-header.component.ts",
+  "SelectedNode": "\\src\\app\\services\\local-storage.service.ts",
   "PreviewInSolutionExplorer": false
 }

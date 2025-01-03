@@ -61,7 +61,6 @@ export class ContactListComponent {
   private getContacts(): void {
     this.subscription.add(
       this.contactService.getContacts().subscribe((data: Contact[]) => {
-        console.log(data);
         this.contacts = data;
         this.filteredContacts = data;
       })

@@ -85,7 +85,6 @@ export class ContactInfoComponent {
     this.subscription.add(
       this.activateRoute.params.subscribe(params => {
         if (params["contactId"]) {
-          console.log("loool");
           this.getContact(params["contactId"]);
         }
 
@@ -116,7 +115,6 @@ export class ContactInfoComponent {
 
   private getContact(id: string): void {
     this.contactService.getContactById(id).subscribe(data => {
-      console.log(data);
       this.contact = data;
       this.setFormData();
     });
