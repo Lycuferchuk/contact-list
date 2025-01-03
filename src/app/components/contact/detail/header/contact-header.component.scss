@@ -1,0 +1,23 @@
+.container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 2px solid #808080;
+}
+
+h2 {
+  margin: 16px 0px;
+  flex-grow: 1;
+  text-align: center;
+}
+
+.back-button {
+  position: absolute;
+  left: 8px;
+}
+
+.button-container {
+  position: absolute;
+  right: 8px;
+}

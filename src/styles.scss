@@ -1,1 +1,42 @@
-/* You can add global styles to this file, and also import other style files */
+html, body {
+  height: 100%;
+  --mdc-list-list-item-hover-label-text-color: black;
+  --mdc-list-list-item-focus-label-text-color: black;
+  --mdc-list-list-item-label-text-color: black;
+  --mdc-list-list-item-supporting-text-color: black;
+  /* input outline color
+  --mdc-outlined-text-field-caret-color: black;
+  --mdc-outlined-text-field-focus-outline-color: black;
+  --mdc-outlined-text-field-focus-label-text-color: black;
+  --mdc-outlined-text-field-label-text-color: black;
+  --mdc-outlined-text-field-disabled-label-text-color: black;
+  --mdc-outlined-text-field-input-text-color: black;
+  --mdc-outlined-text-field-disabled-input-text-color: black;
+  --mdc-outlined-text-field-input-text-placeholder-color: black;
+  --mdc-outlined-text-field-error-caret-color: #f44336;
+  --mdc-outlined-text-field-error-focus-label-text-color: #f44336;
+  --mdc-outlined-text-field-error-label-text-color: #f44336;
+  --mdc-outlined-text-field-outline-color: black;
+  --mdc-outlined-text-field-disabled-outline-color: black;
+  --mdc-outlined-text-field-hover-outline-color: black;
+  --mdc-outlined-text-field-error-focus-outline-color: #f44336;
+  --mdc-outlined-text-field-error-hover-outline-color: #f44336;
+  --mdc-outlined-text-field-error-outline-color: #f44336;*/
+  // form input size
+  --mdc-outlined-text-field-outline-width: 1px;
+  --mdc-outlined-text-field-focus-outline-width: 2px;
+  --mat-form-field-container-height: 44px;
+  --mat-form-field-container-vertical-padding: 12px;
+  --mat-form-field-filled-with-label-container-padding-top: 20px;
+  --mat-form-field-filled-with-label-container-padding-bottom: 6px;
+  //
+  --mat-icon-button-hover-state-layer-opacity: .1;
+}
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

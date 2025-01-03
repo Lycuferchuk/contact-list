@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "contactNumber": "+1234567890",
+    "email": "john.doe@gmail.com",
+    "birthDate": "1990-05-15",
+    "street": "123 Main St",
+    "city": "New York"
+  },
+  {
+    "id": "2",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "contactNumber": "+1987654321",
+    "email": "jane.smith@gmail.com",
+    "birthDate": "1985-08-25",
+    "street": "456 Elm St",
+    "city": "Los Angeles"
+  },
+  {
+    "id": "3",
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "contactNumber": "+1122334455",
+    "email": "michael.johnson@gmail.com",
+    "birthDate": "1992-03-10",
+    "street": "789 Oak St",
+    "city": "Chicago"
+  },
+  {
+    "id": "4",
+    "firstName": "Emily",
+    "lastName": "Brown",
+    "contactNumber": "+1444555666",
+    "email": "emily.brown@gmail.com",
+    "birthDate": "1995-07-12",
+    "street": "321 Pine St",
+    "city": "San Francisco"
+  },
+  {
+    "id": "5",
+    "firstName": "David",
+    "lastName": "Williams",
+    "contactNumber": "+1555666777",
+    "email": "david.williams@gmail.com",
+    "birthDate": "1988-11-05",
+    "street": "654 Maple St",
+    "city": "Seattle"
+  },
+  {
+    "id": "6",
+    "firstName": "Sarah",
+    "lastName": "Miller",
+    "contactNumber": "+1666777888",
+    "email": "sarah.miller@gmail.com",
+    "birthDate": "1993-09-21",
+    "street": "987 Cedar St",
+    "city": "Austin"
+  },
+  {
+    "id": "7",
+    "firstName": "James",
+    "lastName": "Taylor",
+    "contactNumber": "+1777888999",
+    "email": "james.taylor@gmail.com",
+    "birthDate": "1982-02-18",
+    "street": "543 Birch St",
+    "city": "Boston"
+  },
+  {
+    "id": "8",
+    "firstName": "Laura",
+    "lastName": "Anderson",
+    "contactNumber": "+1888999000",
+    "email": "laura.anderson@gmail.com",
+    "birthDate": "1997-12-03",
+    "street": "876 Walnut St",
+    "city": "Denver"
+  },
+  {
+    "id": "9",
+    "firstName": "Robert",
+    "lastName": "Thomas",
+    "contactNumber": "+1999000111",
+    "email": "robert.thomas@gmail.com",
+    "birthDate": "1980-06-30",
+    "street": "234 Spruce St",
+    "city": "Miami"
+  },
+  {
+    "id": "10",
+    "firstName": "Olivia",
+    "lastName": "Harris",
+    "contactNumber": "+1222333444",
+    "email": "olivia.harris@gmail.com",
+    "birthDate": "1994-04-22",
+    "street": "456 Willow St",
+    "city": "Portland"
+  }
+]
