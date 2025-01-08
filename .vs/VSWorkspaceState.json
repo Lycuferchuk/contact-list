@@ -2,11 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\app",
-    "\\src\\app\\components",
-    "\\src\\app\\components\\contact",
-    "\\src\\app\\services"
+    "\\src\\app"
   ],
-  "SelectedNode": "\\src\\app\\services\\local-storage.service.ts",
+  "SelectedNode": "\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }

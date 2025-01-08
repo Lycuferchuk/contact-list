@@ -18,7 +18,6 @@ import { MatFormFieldModule } from '@angular/material/form-field';
 import { ReactiveFormsModule } from '@angular/forms';
 import { MatDatepickerModule } from '@angular/material/datepicker';
 import { MatNativeDateModule } from '@angular/material/core';
-import { SearchFilterPipe } from './pipes/search-filter.pipe';
 
 @NgModule({
   declarations: [
@@ -27,7 +26,6 @@ import { SearchFilterPipe } from './pipes/search-filter.pipe';
     ContactDetailComponent,
     ContactHeaderComponent,
     ContactInfoComponent,
-    SearchFilterPipe,
   ],
   imports: [
     BrowserModule,
